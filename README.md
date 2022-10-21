@@ -11,7 +11,12 @@ Framework:
 ## Thông Tin Thành Viên Nhóm:
 - Trần Văn Kiệt - 20110665
 - Nguyễn Đình Thiện - 2011263
-- Nguyễn Công Thành - 20110267
+- Nguyễn Công Thành - 20110267 
+
+Contributors:
+[![](https://avatars.githubusercontent.com/u/89686453?s=64&v=4)](https://www.facebook.com/kTw1208)
+[![](https://avatars.githubusercontent.com/u/116097599?s=64&v=4s)](https://www.facebook.com/thien20110263)
+[![](https://avatars.githubusercontent.com/u/89307218?v=4&s=64)](https://www.facebook.com/profile.php?id=100011055702857)
 ## Yêu cầu:
 - Thư viện: https://parquet.apache.org/ 
 - Viết ứng dụng cho thư viện này trên nền tảng Hadoop
