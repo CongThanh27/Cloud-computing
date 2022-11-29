@@ -3,6 +3,7 @@
 Dịch vụ:
 - Amazon S3
 - AWS EMR
+-EC2
 
 Framework:
 - Apache Hadoop
