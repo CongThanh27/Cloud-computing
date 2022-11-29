@@ -3,7 +3,7 @@
 Dịch vụ:
 - Amazon S3
 - AWS EMR
--EC2
+- EC2
 
 Framework:
 - Apache Hadoop
@@ -29,5 +29,6 @@ Contributors:
 Sử dụng hadoop mapreduce và spark để đọc ghi file trên cluster
 ## Mục tiêu:
 So sánh lợi ích của việc đọc, ghi file Parquet trong Hadoop sử dụng mô hình MapReduce với cách đọc thông thường.
-## Tài liệu tham khảo:
+## Tài liệu tham khảo: Kiến thức từ môn học Điện toán đám mây của GV Huỳnh Xuân Phụng
+## Kết quả đạt được: https://youtu.be/TGrAiCy8xTI
 
